@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Change Your Ticket",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T15:31:08.044821Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Change Your Ticket",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/01_Change_Your_Ticket_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Change Your Ticket",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/02_Change_Your_Ticket_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Change Your Ticket",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/03_Change_Your_Ticket_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Change Your Ticket",
+      "artist": "OneDirectionVEVO",
+      "has_synced": true,
+      "path": "select/04_Change_Your_Ticket_OneDirectionVEVO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Change Your Ticket",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/05_Change_Your_Ticket_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Change Your Ticket (Bonus Track)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/06_Change_Your_Ticket_(Bonus_Track)_One_Direction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Change Your Ticket",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Change_Your_Ticket_One_Direction.txt"
+    }
+  ]
+}
